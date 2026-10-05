@@ -1,0 +1,51 @@
+*{
+box-sizing:border-box ;
+}
+body{
+    background-image: url("../images/guru.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 90vh;
+}
+.box{
+     
+    height: 450px;
+    width: 350px;
+    border:5px solid red;
+    border-radius: 50px;
+    box-shadow: 0px 0px 10px 10px lightgray  ;
+margin:50px auto ;
+text-align: center;
+
+
+  background-image: url("../images/new.jpeg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.box input{
+height: 50px;
+width: 240px;
+margin-top: 10px;
+border-radius: 10px;
+box-shadow: 0px 0px 5px 5px rgb(117, 7, 243); 
+margin-top: 20px;
+margin-right: 5px;
+
+
+}
+.box button{
+height: 50px;
+border-radius: 10px;
+background-color: rgb(230, 9, 9);
+color: white;
+font-weight: bold;
+font-style:italic;
+}
+.box button:hover{
+    background-color: green;
+    color: white;
+    cursor: pointer;
+}
