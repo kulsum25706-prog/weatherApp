@@ -2,7 +2,7 @@
 box-sizing:border-box ;
 }
 body{
-    background-image: url("../images/guru.jpg");
+    background-image: url("guru.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -19,7 +19,7 @@ margin:50px auto ;
 text-align: center;
 
 
-  background-image: url("../images/new.jpeg");
+  background-image: url("new.jpeg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
